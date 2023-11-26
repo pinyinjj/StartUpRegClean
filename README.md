@@ -1,3 +1,8 @@
-put the exe file into
+Put the .exe file into 
 
-shell:startup
+```win + R```
+
+
+```shell:startup```
+
+Done!
